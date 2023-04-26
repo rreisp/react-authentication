@@ -4,7 +4,6 @@ import classes from "./EventItem.module.css";
 
 function EventItem({ event }) {
   const token = useRouteLoaderData("root");
-
   const submit = useSubmit();
 
   function startDeleteHandler() {
