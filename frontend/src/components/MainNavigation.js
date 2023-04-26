@@ -48,7 +48,7 @@ function MainNavigation() {
             >
               Authentication
             </NavLink>
-          </li>          
+          </li>
         </ul>
       </nav>
       <NewsletterSignup />
